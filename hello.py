@@ -1,2 +1,2 @@
-rep=("python")*11
+rep=("python")*2
 rep
